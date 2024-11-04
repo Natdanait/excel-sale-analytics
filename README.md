@@ -16,6 +16,7 @@
 - **Project objective:** 
 
     **1.** Create Profit and Loss (P&L) reports categorized by Fiscal Year​ (_[P&L Statement by Fiscal Year](https://github.com/Natdanait/excel-sale-analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_) and, (_[P&L Statement by Month](https://github.com/Natdanait/excel-sale-analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_) 
+
     **2.** Create Profit and Loss (P&L) reports by Market (_[P&L Statement by Market](https://github.com/Natdanait/excel-sale-analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_)
 
 - Purpose of Finance Analytics: Assesses the organization’s financial performance, supports decision-making, and enhances stakeholder communication.
