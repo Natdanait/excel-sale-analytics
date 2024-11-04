@@ -5,7 +5,7 @@
 
     **1.** Develop a Customer Performance Report to track customer sales metrics over time​ (_[customer performance report](https://github.com/Natdanait/excel-sale-analytics/blob/main/Customer%20Performance%20Report.pdf)_) 
 
-    **2.** Analyze Market Performance vs. Sales Targets to assess actual sales against projected targets across regions​ _[market performance and sales targets](https://github.com/Natdanait/excel-sale-analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+    **2.** Analyze Market Performance vs. Sales Targets to assess actual sales against projected targets across regions​ (_[market performance and sales targets](https://github.com/Natdanait/excel-sale-analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_)
 
 - Purpose of Sales Analytics: Enables businesses to monitor and evaluate sales activities and performance metrics effectively.
 - Importance of Analyzing Sales Data: Helps identify sales trends, track critical performance indicators (KPIs), and gain insights into customer behavior.
